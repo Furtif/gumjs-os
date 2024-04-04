@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/frida/gumjs-os.git"
+  },
+  "scripts": {
+    "build": "tsc"
   }
 }
